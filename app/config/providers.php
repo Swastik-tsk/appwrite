@@ -71,6 +71,16 @@ return [ // Ordered by ABC.
         'beta' => false,
         'mock' => false,
     ],
+    'epicgames' => [
+        'name' => 'Epic Games',
+        'developers' => 'https://dev.epicgames.com/en-US/home'
+        'icon' => 'icon-epicgames',
+        'enabled' => true,
+        'sandbox' => false,
+        'form' => false,
+        'beta' => false,
+        'mock' => false,
+    ],  
     'facebook' => [
         'name' => 'Facebook',
         'developers' => 'https://developers.facebook.com/',
